@@ -4,4 +4,4 @@ TIANCHI 天池 数字人体’视觉挑战赛——宫颈癌风险智能诊断 �
 
 比赛主页：[link](https://tianchi.aliyun.com/competition/entrance/231757/information)
 
-相关博客：[tianchi notebook](https://tianchi.aliyun.com/notebook-ai/detail?postId=114028)
+相关博客：[tianchi notebook](https://blog.csdn.net/amou__/article/details/107435988)
